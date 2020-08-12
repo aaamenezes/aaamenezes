@@ -1,4 +1,4 @@
-![](banner.jpg)
+![](https://github.com/aaamenezes/aaamenezes/blob/master/banner.jpg)
 
 ### Olá 👋
 
