@@ -1,7 +1,5 @@
 ### Olá 👋
 
-Oi.
-
 Possuo domínio de HTML e CSS para iniciar um projeto hoje mesmo. Também já criei algumas funções e recursos básicos em Javascript, mas ainda tenho muito o que aprender. Meus próximos passos serão estudar React, Node e Banco de dados. E num futuro não tão distante, quero me aprofundar na área de UX/UI.
 
 Minhas área de interesse são desenvolvimento web, mobile, front-end e UX design.
