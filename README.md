@@ -1,3 +1,5 @@
+![](banner.jpg)
+
 ### Olá 👋
 
 Possuo domínio de HTML e CSS para iniciar um projeto hoje mesmo. Também já criei algumas funções e recursos básicos em Javascript, mas ainda tenho muito o que aprender. Meus próximos passos serão estudar React, Node e Banco de dados. E num futuro não tão distante, quero me aprofundar na área de UX/UI.
@@ -30,9 +32,6 @@ EMOJIS https://gist.github.com/tgmarinho/6cf35ac45644a0b68a45069d23c2e4b6
 https://www.emojicopy.com/
 
 Mesmo banner do linkedin
-
-https://blog.rocketseat.com.br/o-que-e-readme-e-porque-e-tao-importante/
-https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
 
 Rockerseat starter colocar projeto
 
