@@ -2,24 +2,34 @@
 
 Você já deve saber meu nome, porque leu ali ao lado ⏪ certo? (ou olhou agora para ler). Então queria contar outros coisas sobre mim.
 
-Possuo domínio de HTML e CSS para iniciar um projeto hoje mesmo. Também já criei algumas funções e recursos básicos em Javascript, mas ainda tenho muito o que aprender 👨‍💻 Meus próximos passos serão estudar React, Node e Banco de dados. E num futuro não tão distante, quero me aprofundar na área de UX/UI.
+Possuo domínio de HTML e CSS para iniciar um projeto hoje mesmo. Também já criei algumas funções e recursos básicos em Javascript, mas ainda tenho muito o que aprender 👨‍💻. Meus próximos passos serão estudar React, Node e Banco de dados. E num futuro não tão distante, quero me aprofundar na área de UX/UI.
 
 Minhas área de interesse são:
 
-- 🖥️ Desenvolvimento Web
-- 📱 Desenvolvimento Mobile
-- 🖌️ Front-end
-- 📁 UX Design
+🖥️ Desenvolvimento Web
+📱 Desenvolvimento Mobile
+🖌️ Front-end
+📁 UX Design
 
 Estudo programação majoritariamente online 💻 desde 2019.
+
+<!--
 
 Os projetos que mais gostei de ter realizado foram:
 
 ...
 
+-->
+
 Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/).
 
-Decidi seguir na área de desenvolvimento 👨‍💻 após adquirir experiência em suporte de TI 🛠️ e Marketing Digital 📣. Nesta última, trabalhei com redes sociais, blog, SEO 🔍, WordPress e CSS.
+Decidi seguir na área de desenvolvimento 👨‍💻 após adquirir experiência em suporte de TI 🛠️ e Marketing Digital 📣. Nesta última, trabalhei com:
+
+💬 Redes sociais
+📝 Blog
+🔍 SEO
+🌎 WordPress
+👨‍💻 CSS
 
 Sou graduado em Administração com ênfase em Marketing (PUCRS), técnico em Publicidade (ETCR) e técnico em Redes de Computadores (SENAI).
 
@@ -27,19 +37,19 @@ No trabalho voluntário que tive na ONG Associação 101 Viralatas 🐶🐱 (Via
 
 Meus principais hobbies são:
 
-- ⚽ Jogar futebol
-- 🍻 Sair com amigos
-- 📚 Ler
-- ✍️ [Escrever](https://medium.com/@aaamenezes)
-- 🎸Tocar violão
-- 🎮 Jogar vídeo game
+⚽ Jogar futebol
+🍻 Sair com amigos
+📚 Ler
+✍️ [Escrever](https://medium.com/@aaamenezes)
+🎸Tocar violão
+🎮 Jogar vídeo game
 
 Você pode me contatar no meu [e-mail](mailto:1992menezes@gmail.com) (1992menezes@gmail.com) ou no [Linkedin](https://www.linkedin.com/in/aaamenezes).
 
 Muito prazer!
 
 # Diário de bordo de aprendizados
-Daqui em diante, você poderá acompanhar um Diário de bordo de coisas que aprendo ao longos dos dia:
+Daqui em diante, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
 
 ## Validação de campos de formulário
 **Quarta-feira, 12/08/2020**
