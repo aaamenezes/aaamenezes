@@ -1,6 +1,6 @@
 ### Olá 😬🤙
 
-Você já deve saber meu nome, porque leu ali ao lado ⏪ certo? (ou olhou agora para ler). Então queria contar outros coisas sobre mim.
+Você já deve saber meu nome, porque leu ali ao lado ⏪ certo? (ou olhou agora para ler). Então queria contar outras coisas sobre mim.
 
 Possuo domínio de HTML e CSS para iniciar um projeto hoje mesmo. Também já criei algumas funções e recursos básicos em Javascript, mas ainda tenho muito o que aprender 👨‍💻.
 
@@ -51,6 +51,8 @@ Quer conversar sobre algum projeto, pedir alguma ajuda, ou apenas falar sobre co
 Então pode me contatar no meu [e-mail](mailto:1992menezes@gmail.com) (1992menezes@gmail.com) ou no [Linkedin](https://www.linkedin.com/in/aaamenezes).
 
 Muito prazer!
+
+---
 
 # Diário de bordo de aprendizados
 Daqui em diante, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
