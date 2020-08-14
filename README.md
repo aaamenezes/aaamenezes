@@ -57,6 +57,20 @@ Muito prazer!
 # Diário de bordo de aprendizados
 Daqui em diante, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
 
+## jQuery Mask Plugin
+**Sexta-feira, 14/08/2020**
+
+O site de um cliente tem um campo para o usuário informar seu número de telefone. Porém alguns usuários não forneciam o código de área, e isso dificultava alguns contatos.  
+
+Então apliquei o jQuery Mask Plugin para formatar o campo, exibindo os parênteses assim que o usuário digitasse o primeiro dígito.
+
+## Tratamento de input:date
+**Quinta-feira, 13/08/2020**
+
+Montei um script JS para que o usuário não possa escolhar datas que sejam iguais a hoje ou passadas. Caso isso aconteça, o campo muda para a data de amanhã e uma mensagem de alerta surge pedindo para que ele escolha uma data futura.
+
+Quando uma data válida é escolhida, o alerta some.
+
 ## Validação de campos de formulário
 **Quarta-feira, 12/08/2020**
 
