@@ -45,12 +45,12 @@ No trabalho voluntário que tive na ONG Associação 101 Viralatas 🐶🐱 (Via
 
 ## Estudos e qualificações 👨‍🎓
 
-👨‍💻 Graduação em Sistemas para Internet (SENAC) - 1o semestre
-📣 Brand Design - Gestão de Marca (4ED)
-📣 Técnico em Publicidade (ETCR)
-🖌️ Design Gráfico (Alfamídia)
-📈 Graduado Administração com ênfase em Marketing (PUCRS)
-🖥️ Técnico em Redes de Computadores (SENAI)
+👨‍💻 Graduação em Sistemas para Internet (SENAC) - 1o semestre  
+📣 Brand Design - Gestão de Marca (4ED)  
+📣 Técnico em Publicidade (ETCR)  
+🖌️ Design Gráfico (Alfamídia)  
+📈 Graduado Administração com ênfase em Marketing (PUCRS)  
+🖥️ Técnico em Redes de Computadores (SENAI)  
 
 ## Os meus principais hobbies:
 
@@ -65,16 +65,19 @@ Quer conversar sobre algum projeto, pedir alguma ajuda, ou apenas falar sobre co
 
 Pode me contatar por qualquer forma abaixo:
 
-[E-mail 1992menezes@gmail.com](mailto:1992menezes@gmail.com)
-[Linkedin](https://www.linkedin.com/in/aaamenezes)
-[Iinstagram](https://www.instagram.com/aaamenezes/)
+[![linkedin](https://img.shields.io/badge/%20-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaamenezes)  
+
+[![instagram](https://img.shields.io/badge/%20-Instagram-E47AAE?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaamenezes/)  
+
+[![gmail](https://img.shields.io/badge/%20-1992menezes@gmail.com-c23a2b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1992menezes@gmail.com)  
+`1992menezes@gmail.com`  
 
 Muito prazer!
 
 ---
 
 # Diário de bordo de aprendizados
-Daqui em diante, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
+Daqui para baixo, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
 
 ## jQuery Mask Plugin
 **Sexta-feira, 14/08/2020**
