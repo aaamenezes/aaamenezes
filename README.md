@@ -1,8 +1,16 @@
-# Olá 😬🤙
+# Que bom que você veio 😬🤙
 
 Você já deve saber meu nome, porque leu ali ao lado ⏪ certo? (ou olhou agora para ler). Então queria contar outras coisas sobre mim.
 
-Possuo domínio de HTML e CSS para iniciar um projeto hoje mesmo. Também já criei algumas funções e recursos básicos em Javascript, mas ainda tenho muito o que aprender 👨‍💻.
+Estudo programação quase totalmente de forma online 💻 desde 2019.
+
+## O que eu já sei 💪
+
+Possuo domínio de HTML e CSS para iniciar um projeto hoje mesmo.  
+
+Também já criei algumas funções e recursos básicos em Javascript, mas ainda tenho muito o que aprender 👨‍💻.
+
+## O que eu ainda quero descobrir 🔍
 
 Meus próximos passos serão estudar React, Node e Banco de dados. E num futuro não tão distante, quero me aprofundar em UX/UI.
 
@@ -13,8 +21,6 @@ Minhas área de interesse são:
 🖌️ Front-end  
 📁 UX Design  
 
-Estudo programação majoritariamente online 💻 desde 2019.
-
 <!--
 
 Os projetos que mais gostei de ter realizado foram:
@@ -23,7 +29,9 @@ Os projetos que mais gostei de ter realizado foram:
 
 -->
 
-Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/).
+## Minhas experiências 💼
+
+Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/). É minha primeira experiência como dev.
 
 Decidi seguir na área de desenvolvimento após adquirir experiência em suporte de TI 🛠️ e Marketing Digital 📣. Nesta última, trabalhei com:
 
@@ -33,22 +41,33 @@ Decidi seguir na área de desenvolvimento após adquirir experiência em suporte
 🌎 WordPress  
 👨‍💻 CSS  
 
-Sou graduado em Administração com ênfase em Marketing (PUCRS), técnico em Publicidade (ETCR) e técnico em Redes de Computadores (SENAI).
-
 No trabalho voluntário que tive na ONG Associação 101 Viralatas 🐶🐱 (Viamão/RS), tive uma boa vivência com edição de vídeo usando o Adobe Premiere e tratamento básico de imagens com Photoshop.
 
-Meus principais hobbies são:
+## Estudos e qualificações 👨‍🎓
+
+👨‍💻 Graduação em Sistemas para Internet (SENAC) - 1o semestre
+📣 Brand Design - Gestão de Marca (4ED)
+📣 Técnico em Publicidade (ETCR)
+🖌️ Design Gráfico (Alfamídia)
+📈 Graduado Administração com ênfase em Marketing (PUCRS)
+🖥️ Técnico em Redes de Computadores (SENAI)
+
+## Os meus principais hobbies:
 
 ⚽ Jogar futebol  
 🍻 Sair com amigos  
 📚 Ler  
 ✍️ [Escrever](https://medium.com/@aaamenezes)  
 🎸Tocar violão  
-🎮 Jogar vídeo game  
+🎮 Jogar vídeo game  (Atualmente, estou jogando Silent Hill do PS2)
 
 Quer conversar sobre algum projeto, pedir alguma ajuda, ou apenas falar sobre como é prazeroso usar `display:grid`?
 
-Então pode me contatar no meu [e-mail](mailto:1992menezes@gmail.com) (1992menezes@gmail.com) ou no [Linkedin](https://www.linkedin.com/in/aaamenezes).
+Pode me contatar por qualquer forma abaixo:
+
+[E-mail 1992menezes@gmail.com](mailto:1992menezes@gmail.com)
+[Linkedin](https://www.linkedin.com/in/aaamenezes)
+[Iinstagram](https://www.instagram.com/aaamenezes/)
 
 Muito prazer!
 
