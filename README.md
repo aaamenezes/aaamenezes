@@ -63,14 +63,13 @@ No trabalho voluntário que tive na ONG Associação 101 Viralatas 🐶🐱 (Via
 
 Quer conversar sobre algum projeto, pedir alguma ajuda, ou apenas falar sobre como é prazeroso usar `display:grid`?
 
-Pode me contatar por qualquer forma abaixo:
+Pode me contatar por e-mail `1992menezes@gmail.com` ou qualquer rede abaixo:
 
 [![linkedin](https://img.shields.io/badge/%20-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaamenezes)  
 
 [![instagram](https://img.shields.io/badge/%20-Instagram-E47AAE?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaamenezes/)  
 
-[![gmail](https://img.shields.io/badge/%20-1992menezes@gmail.com-c23a2b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1992menezes@gmail.com)  
-`1992menezes@gmail.com`  
+[![twitter](https://img.shields.io/badge/%20-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaamenezes)   
 
 Muito prazer!
 
