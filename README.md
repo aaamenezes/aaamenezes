@@ -1,8 +1,6 @@
 # Que bom que você veio 😬🤙
 
-Você já deve saber meu nome, porque leu ali ao lado ⏪ certo? (ou olhou agora para ler). Então queria contar outras coisas sobre mim.
-
-Estudo programação quase totalmente de forma online 💻 desde 2019.
+Quero contar algumas coisas sobre mim, desde que comecei a estudar programação praticamente de forma online 💻 em 2019.
 
 ## O que eu já sei 💪
 
@@ -56,7 +54,7 @@ No trabalho voluntário que tive na ONG Associação 101 Viralatas 🐶🐱 (Via
 
 ⚽ Jogar futebol  
 🍻 Sair com amigos  
-📚 [Ler](https://www.skoob.com.br/usuario/1298580)
+📚 [Ler](https://www.skoob.com.br/usuario/1298580)  
 ✍️ [Escrever](https://medium.com/@aaamenezes)  
 🎸 Tocar violão  
 🎮 Jogar vídeo game  (Atualmente, estou jogando Silent Hill do PS2)
