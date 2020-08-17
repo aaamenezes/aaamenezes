@@ -29,11 +29,11 @@ Os projetos que mais gostei de ter realizado foram:
 
 -->
 
-## Minhas experiências 💼
+## Por onde já passei 💼
 
 Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/). É minha primeira experiência como dev.
 
-Decidi seguir na área de desenvolvimento após adquirir experiência em suporte de TI 🛠️ e Marketing Digital 📣. Nesta última, trabalhei com:
+Decidi seguir na área de desenvolvimento após adquirir experiência em suporte de TI 🛠️ e Marketing Digital 📣. Nesta última, iniciei e estruturei o setor da Marketing Digital da [WK JobHub](https://www.wkrh.com.br/) trabalhei com:
 
 💬 Redes sociais  
 📝 Blog  
@@ -45,23 +45,23 @@ No trabalho voluntário que tive na ONG Associação 101 Viralatas 🐶🐱 (Via
 
 ## Estudos e qualificações 👨‍🎓
 
-👨‍💻 Graduação em Sistemas para Internet (SENAC) - 1o semestre  
+👨‍💻 Graduando em Sistemas para Internet (SENAC) - 1º semestre  
 📣 Brand Design - Gestão de Marca (4ED)  
 📣 Técnico em Publicidade (ETCR)  
 🖌️ Design Gráfico (Alfamídia)  
-📈 Graduado Administração com ênfase em Marketing (PUCRS)  
+📈 Graduado em Administração com ênfase em Marketing (PUCRS)  
 🖥️ Técnico em Redes de Computadores (SENAI)  
 
-## Os meus principais hobbies:
+## Meus principais hobbies 🏖️
 
 ⚽ Jogar futebol  
 🍻 Sair com amigos  
-📚 Ler  
+📚 [Ler](https://www.skoob.com.br/usuario/1298580)
 ✍️ [Escrever](https://medium.com/@aaamenezes)  
-🎸Tocar violão  
+🎸 Tocar violão  
 🎮 Jogar vídeo game  (Atualmente, estou jogando Silent Hill do PS2)
 
-Quer conversar sobre algum projeto, pedir alguma ajuda, ou apenas falar sobre como é prazeroso usar `display:grid`?
+Quer conversar sobre algum projeto, pedir alguma ajuda, ou apenas falar sobre como é prazeroso usar o `display:grid`?
 
 Pode me contatar por e-mail `1992menezes@gmail.com` ou qualquer rede abaixo:
 
@@ -69,7 +69,9 @@ Pode me contatar por e-mail `1992menezes@gmail.com` ou qualquer rede abaixo:
 
 [![instagram](https://img.shields.io/badge/%20-Instagram-E47AAE?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaamenezes/)  
 
-[![twitter](https://img.shields.io/badge/%20-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaamenezes)   
+[![twitter](https://img.shields.io/badge/%20-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaamenezes)  
+
+[![medium](https://img.shields.io/badge/%20-Medium-292929?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aaamenezes)   
 
 Muito prazer!
 
