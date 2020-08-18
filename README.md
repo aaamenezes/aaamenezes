@@ -31,7 +31,7 @@ Os projetos que mais gostei de ter realizado foram:
 
 Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/). É minha primeira experiência como dev.
 
-Decidi seguir na área de desenvolvimento após adquirir experiência em suporte de TI 🛠️ e Marketing Digital 📣. Nesta última, iniciei e estruturei o setor da Marketing Digital da [WK JobHub](https://www.wkrh.com.br/) trabalhei com:
+Decidi seguir na área de desenvolvimento após adquirir experiência em suporte de TI 🛠️ e Marketing Digital 📣. Nesta última, onde iniciei e estruturei o setor da Marketing Digital da [WK JobHub](https://www.wkrh.com.br/), trabalhei com:
 
 💬 Redes sociais  
 📝 Blog  
@@ -39,7 +39,7 @@ Decidi seguir na área de desenvolvimento após adquirir experiência em suporte
 🌎 WordPress  
 👨‍💻 CSS  
 
-No trabalho voluntário que tive na ONG Associação 101 Viralatas 🐶🐱 (Viamão/RS), tive uma boa vivência com edição de vídeo usando o Adobe Premiere e tratamento básico de imagens com Photoshop.
+No trabalho voluntário que fiz na [ONG Associação 101 Viralatas](https://www.facebook.com/ONG101viralatas/) 🐶🐱 de Viamão/RS, tive uma boa vivência com edição de vídeo usando o Adobe Premiere e tratamento básico de imagens com Photoshop.
 
 ## Estudos e qualificações 👨‍🎓
 
@@ -59,17 +59,11 @@ No trabalho voluntário que tive na ONG Associação 101 Viralatas 🐶🐱 (Via
 🎸 Tocar violão  
 🎮 Jogar vídeo game  (Atualmente, estou jogando Silent Hill do PS2)
 
-Quer conversar sobre algum projeto, pedir alguma ajuda, ou apenas falar sobre como é prazeroso usar o `display:grid`?
+Quer conversar sobre algum projeto, pedir alguma ajuda, ou apenas falar sobre como é prazeroso usar o `{display: grid;}`?
 
 Pode me contatar por e-mail `1992menezes@gmail.com` ou qualquer rede abaixo:
 
-[![linkedin](https://img.shields.io/badge/%20-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaamenezes)  
-
-[![instagram](https://img.shields.io/badge/%20-Instagram-E47AAE?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaamenezes/)  
-
-[![twitter](https://img.shields.io/badge/%20-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaamenezes)  
-
-[![medium](https://img.shields.io/badge/%20-Medium-292929?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aaamenezes)   
+[![linkedin](https://img.shields.io/badge/%20-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaamenezes) [![instagram](https://img.shields.io/badge/%20-Instagram-E47AAE?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaamenezes/) [![twitter](https://img.shields.io/badge/%20-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaamenezes) [![medium](https://img.shields.io/badge/%20-Medium-292929?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aaamenezes)
 
 Muito prazer!
 
