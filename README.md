@@ -1,6 +1,6 @@
 # Que bom que você veio 😬🤙
 
-Quero contar algumas coisas sobre mim, desde que comecei a estudar programação praticamente de forma online 💻 em 2019.
+Quero contar algumas coisas sobre mim, desde que comecei a estudar programação online em 2019.
 
 ## O que eu já sei 💪
 
