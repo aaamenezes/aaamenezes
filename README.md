@@ -1,4 +1,4 @@
-# Que bom que você veio 😬🤙
+# Que bom que você está aqui 😬🤙
 
 Quero contar algumas coisas sobre mim, desde que comecei a estudar programação online em 2019.
 
@@ -71,6 +71,13 @@ Muito prazer!
 
 # Diário de bordo de aprendizados
 Daqui para baixo, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
+
+## [AOS](https://github.com/michalsnik/aos) (Animate on Scroll)
+**Terça-feira, 01/09/2020**
+
+Conheci e utilizei no site de um cliente a biblioteca AOS para aplicar animações e deixar o front mais atraente para os visitantes.  
+
+Alguns efeitos legais dessa biblioteca podem ser conferidos [aqui](https://michalsnik.github.io/aos/) e [aqui](https://codepen.io/michalsnik/pen/WxNdvq).
 
 ## jQuery Mask Plugin
 **Sexta-feira, 14/08/2020**
