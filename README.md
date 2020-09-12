@@ -29,7 +29,8 @@ Os projetos que mais gostei de ter realizado foram:
 
 ## Por onde já passei 💼
 
-Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/). É minha primeira experiência como dev.
+Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/). É minha primeira experiência como dev.  
+Atuo com **HTML5**, **CSS3** (usando o pré-processador [SASS](https://sass-lang.com/)) e [Liquid](https://shopify.github.io/liquid/) (uma linguagem de template criada pela Shopify).
 
 Decidi seguir na área de desenvolvimento após adquirir experiência em suporte de TI 🛠️ e Marketing Digital 📣. Nesta última, onde iniciei e estruturei o setor da Marketing Digital da [WK JobHub](https://www.wkrh.com.br/), trabalhei com:
 
@@ -71,6 +72,11 @@ Muito prazer!
 
 # Diário de bordo de aprendizados
 Daqui para baixo, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
+
+## SPA
+**Quinta-feira, 10/09/2020**
+
+Criei uma SPA pela primeira vez usando React.JS.
 
 ## [AOS](https://github.com/michalsnik/aos) (Animate on Scroll)
 **Terça-feira, 01/09/2020**
