@@ -4,20 +4,20 @@ Quero contar algumas coisas sobre mim, desde que comecei a estudar programação
 
 ## O que eu já sei 💪
 
-Possuo domínio de HTML e CSS para iniciar um projeto hoje mesmo.  
+Possuo domínio de **HTML** e **CSS** para iniciar um projeto hoje mesmo.  
 
-Também já criei algumas funções e recursos básicos em Javascript, mas ainda tenho muito o que aprender 👨‍💻.
+Também já criei algumas funções e recursos básicos em **Javascript**, mas ainda tenho muito o que aprender 👨‍💻.
 
 ## O que eu ainda quero descobrir 🔍
 
-Meus próximos passos serão estudar React, Node e Banco de dados. E num futuro não tão distante, quero me aprofundar em UX/UI.
+No momento estou estudando **React**, e também tenho interesse em conhecer **Node**, **Flutter** e **Banco de dados**. E num futuro não tão distante, quero me aprofundar em **UX/UI**.
 
 Minhas área de interesse são:
 
 🖥️ Desenvolvimento Web  
 📱 Desenvolvimento Mobile  
 🖌️ Front-end  
-📁 UX Design  
+📁 UX/UI Design  
 
 <!--
 
@@ -40,7 +40,7 @@ Decidi seguir na área de desenvolvimento após adquirir experiência em suporte
 🌎 WordPress  
 👨‍💻 CSS  
 
-No trabalho voluntário que fiz na [ONG Associação 101 Viralatas](https://www.facebook.com/ONG101viralatas/) 🐶🐱 de Viamão/RS, tive uma boa vivência com edição de vídeo usando o Adobe Premiere e tratamento básico de imagens com Photoshop.
+No trabalho voluntário que fiz na ONG Associação 101 Viralatas 🐶🐱 de Viamão/RS ([Facebook](https://www.facebook.com/ONG101viralatas/) / [Instagram](https://www.instagram.com/101viralatas/)), tive uma boa vivência com edição de vídeo usando o Adobe Premiere e tratamento básico de imagens com Photoshop.
 
 ## Estudos e qualificações 👨‍🎓
 
