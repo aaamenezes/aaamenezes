@@ -30,7 +30,7 @@ Os projetos que mais gostei de ter realizado foram:
 ## Por onde já passei 💼
 
 Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/). É minha primeira experiência como dev.  
-Atuo com **HTML5**, **CSS3** (usando o pré-processador [SASS](https://sass-lang.com/)) e [Liquid](https://shopify.github.io/liquid/) (uma linguagem de template criada pela Shopify).
+Atuo com **HTML5**, **CSS3** (usando o pré-processador **SASS**) e **Liquid** (uma linguagem de template criada pela [Shopify](https://shopify.github.io/liquid/)).
 
 Decidi seguir na área de desenvolvimento após adquirir experiência em suporte de TI 🛠️ e Marketing Digital 📣. Nesta última, onde iniciei e estruturei o setor da Marketing Digital da [WK JobHub](https://www.wkrh.com.br/), trabalhei com:
 
