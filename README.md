@@ -6,11 +6,13 @@ Quero contar algumas coisas sobre mim, desde que comecei a estudar programação
 
 Possuo domínio de **HTML** e **CSS** para iniciar um projeto hoje mesmo.  
 
-Também já criei algumas funções e recursos básicos em **Javascript**, mas ainda tenho muito o que aprender 👨‍💻.
+Também já criei algumas funções e recursos básicos em **Javascript**, mas ainda tenho muito o que aprender 👨‍💻.  
+
+No momento estou estudando **React.JS**
 
 ## O que eu ainda quero descobrir 🔍
 
-No momento estou estudando **React**, e também tenho interesse em conhecer **Node**, **Flutter** e **Banco de dados**. E num futuro não tão distante, quero me aprofundar em **UX/UI**.
+Também tenho interesse em conhecer **Node**, **Flutter** e **Banco de dados**. E num futuro não tão distante, quero me aprofundar em **UX/UI**.
 
 Minhas área de interesse são:
 
@@ -21,7 +23,7 @@ Minhas área de interesse são:
 
 <!--
 
-Os projetos que mais gostei de ter realizado foram:
+## Os projetos que mais gostei de ter realizado foram:
 
 ...
 
@@ -35,7 +37,7 @@ Atuo com **HTML5**, **CSS3** (usando o pré-processador **SASS**) e **Liquid** (
 Decidi seguir na área de desenvolvimento após adquirir experiência em suporte de TI 🛠️ e Marketing Digital 📣. Nesta última, onde iniciei e estruturei o setor da Marketing Digital da [WK JobHub](https://www.wkrh.com.br/), trabalhei com:
 
 💬 Redes sociais  
-📝 Blog  
+📝 [Blog](https://wkrh.com.br/blog/) (postagens feitas de 06/2018 a 07/2020)  
 🔍 SEO  
 🌎 WordPress  
 👨‍💻 CSS  
@@ -44,7 +46,7 @@ No trabalho voluntário que fiz na ONG Associação 101 Viralatas 🐶🐱 de Vi
 
 ## Estudos e qualificações 👨‍🎓
 
-👨‍💻 Graduando em Sistemas para Internet (SENAC) - 1º semestre  
+<!-- 👨‍💻 Graduando em Sistemas para Internet (SENAC) - 1º semestre   -->
 📣 Brand Design - Gestão de Marca (4ED)  
 📣 Técnico em Publicidade (ETCR)  
 🖌️ Design Gráfico (Alfamídia)  
@@ -72,6 +74,14 @@ Muito prazer!
 
 # Diário de bordo de aprendizados
 Daqui para baixo, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
+
+## Gerador de números das Mega-Sena com React.JS
+
+**Sábado, 03/10/2020**
+
+Minha primeira aplicação em React.JS, um gerador de números da Mega-Sena.  
+
+Falei bastante dessa experiência numa postagem no meu [LinkedIn](https://www.linkedin.com/posts/aaamenezes_react-reactjs-js-activity-6718598035879858176--0o0).
 
 ## SPA
 **Quinta-feira, 10/09/2020**
