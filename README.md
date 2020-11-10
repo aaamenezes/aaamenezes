@@ -8,7 +8,7 @@ Possuo domínio de **HTML** e **CSS** para iniciar um projeto hoje mesmo.
 
 Também já criei algumas funções e recursos básicos em **Javascript**, mas ainda tenho muito o que aprender 👨‍💻.  
 
-No momento estou estudando **React.JS**
+No momento estou praticando **React.JS** no projeto [Caosfonia](https://github.com/aaamenezes/caosfonia).
 
 ## O que eu ainda quero descobrir 🔍
 
@@ -74,6 +74,14 @@ Muito prazer!
 
 # Diário de bordo de aprendizados
 Daqui para baixo, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
+
+## Gerador de acordes musicais para artistas
+
+**Segunda-feira, 09/11/2020**
+
+Estou registrando hoje, mas iniciei esse projeto há algumas semanas já.  
+
+Estou criando meu segundo projeto para treinar o que estou aprendendo em React, o [Caosfonia](https://github.com/aaamenezes/caosfonia).
 
 ## Gerador de números das Mega-Sena com React.JS
 
