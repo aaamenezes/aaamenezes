@@ -75,6 +75,14 @@ Muito prazer!
 # Diário de bordo de aprendizados
 Daqui para baixo, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
 
+## Conheci o useEffect do React.JS   
+
+**Sábado, 14/11/2020**  
+
+No meu projeto [Caosfonia](https://github.com/aaamenezes/caosfonia), resolvi um problema onde os `states` não atualizavam no tempo que eu precisava, aparentemente eles atualizam de forma assíncrona.  
+
+Então usei o `useEffetc()` para executar algumas funções após a montagem de algum component (semelhante ao `componentDidMount()` e `componentDidUpdate()` dos componentes de classe).
+
 ## Gerador de acordes musicais para artistas
 
 **Segunda-feira, 09/11/2020**
