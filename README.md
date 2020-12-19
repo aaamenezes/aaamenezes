@@ -75,6 +75,16 @@ Muito prazer!
 # Diário de bordo de aprendizados
 Daqui para baixo, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
 
+## Deploy do meu segundo projeto em React.JS: Caosfonia
+
+**Sábado, 19/12/2020**  
+
+Esse projeto que já mencionei antes aqui no Diário de Bordo, vai gerar automaticamente acordes para cada parte de uma música que você estiver compondo, então é só tu ter/escrever uma letra e sair tocando.
+
+Detalhei melhor como foi esse processo em um [post no meu LinkedIn](https://www.linkedin.com/posts/aaamenezes_js-javascript-reactjs-activity-6746143346735026176-wfC7/).
+
+O [Caosfonia já está disponível online](https://caosfonia.vercel.app/).
+
 ## Conheci o useEffect do React.JS   
 
 **Sábado, 14/11/2020**  
