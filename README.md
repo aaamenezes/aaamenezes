@@ -4,15 +4,27 @@ Quero contar algumas coisas sobre mim, desde que comecei a estudar programação
 
 ## O que eu já sei 💪
 
-Possuo domínio de **HTML** e **CSS** para iniciar um projeto hoje mesmo.  
+Possuo domínio de **HTML** e **CSS** e **Javascript** para iniciar um projeto hoje mesmo 👨‍💻.
 
-Também já criei algumas funções e recursos básicos em **Javascript**, mas ainda tenho muito o que aprender 👨‍💻.  
+No momento estou praticando **React.JS**. Já fiz dois projetos que gostei muito de ter desenvolvido:
 
-No momento estou praticando **React.JS** no projeto [Caosfonia](https://github.com/aaamenezes/caosfonia).
+### Caosfonia
+
+Um gerador de notas musicais para musicos.
+
+- [Repositório](https://github.com/aaamenezes/caosfonia)
+- [Site em produção](https://caosfonia.vercel.app/)
+
+### PoliQuiz
+
+Um quiz com frases de pessoas famosas, onde o objetivo é adivinhar quem as pronunciou. Aqui, além do **React.JS**, utilizei o framework **Nex.JS**.
+
+- [Repositório](https://github.com/aaamenezes/poliquiz)
+- [Site em produção](https://poliquiz.vercel.app/)
 
 ## O que eu ainda quero descobrir 🔍
 
-Também tenho interesse em conhecer **Node**, **Flutter** e **Banco de dados**. E num futuro não tão distante, quero me aprofundar em **UX/UI**.
+No moment, quero aprofundas meus conhecimentos em **React.JS** e **Next.JS**, expandir os horizontes para conhecer a fundo **UX/UI**, e também um pouco de **Node** e **Banco de dados** para ter uma visão completa de projeto.
 
 Minhas área de interesse são:
 
@@ -32,7 +44,7 @@ Minhas área de interesse são:
 ## Por onde já passei 💼
 
 Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/). É minha primeira experiência como dev.  
-Atuo com **HTML5**, **CSS3** (usando o pré-processador **SASS**) e **Liquid** (uma linguagem de template criada pela [Shopify](https://shopify.github.io/liquid/)).
+Atuo com **HTML5**, **CSS3** (usando o pré-processador **SASS**), **Liquid** (uma linguagem de template criada pela [Shopify](https://shopify.github.io/liquid/)) e **Javascript/jQuery**.
 
 Decidi seguir na área de desenvolvimento após adquirir experiência em suporte de TI 🛠️ e Marketing Digital 📣. Nesta última, onde iniciei e estruturei o setor da Marketing Digital da [WK JobHub](https://www.wkrh.com.br/), trabalhei com:
 
@@ -47,6 +59,7 @@ No trabalho voluntário que fiz na ONG Associação 101 Viralatas 🐶🐱 de Vi
 ## Estudos e qualificações 👨‍🎓
 
 <!-- 👨‍💻 Graduando em Sistemas para Internet (SENAC) - 1º semestre   -->
+🖥️ [Bootcamp Front-end Jamstack](https://www.alura.com.br/bootcamp/front-end-jamstack/matriculas-abertas) (Alura)
 📣 Brand Design - Gestão de Marca (4ED)  
 📣 Técnico em Publicidade (ETCR)  
 🖌️ Design Gráfico (Alfamídia)  
@@ -60,13 +73,16 @@ No trabalho voluntário que fiz na ONG Associação 101 Viralatas 🐶🐱 de Vi
 📚 [Ler](https://www.skoob.com.br/usuario/1298580)  
 ✍️ [Escrever](https://medium.com/@aaamenezes)  
 🎸 Tocar violão  
-🎮 Jogar vídeo game  (Atualmente, estou jogando Silent Hill do PS2)
+🎮 Jogar vídeo game  (Atualmente, estou jogando Bully do PS2)
 
-Quer conversar sobre algum projeto, pedir alguma ajuda, ou apenas falar sobre como é prazeroso usar o `{display: grid;}`?
+Quer conversar sobre algum projeto, pedir alguma ajuda, ou apenas falar sobre como é prazeroso usar componentes reutilizáveis?
 
 Pode me contatar por e-mail `1992menezes@gmail.com` ou qualquer rede abaixo:
 
-[![linkedin](https://img.shields.io/badge/%20-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaamenezes) [![instagram](https://img.shields.io/badge/%20-Instagram-E47AAE?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaamenezes/) [![twitter](https://img.shields.io/badge/%20-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaamenezes) [![medium](https://img.shields.io/badge/%20-Medium-292929?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aaamenezes)
+[![linkedin](https://img.shields.io/badge/%20-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaamenezes)
+[![instagram](https://img.shields.io/badge/%20-Instagram-E47AAE?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaamenezes/)
+[![twitter](https://img.shields.io/badge/%20-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaamenezes)
+[![medium](https://img.shields.io/badge/%20-Medium-292929?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aaamenezes)
 
 Muito prazer!
 
@@ -75,9 +91,31 @@ Muito prazer!
 # Diário de bordo de aprendizados
 Daqui para baixo, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
 
+## Poliquiz
+
+**Segunda-feira, 08/02/2021**
+
+Participei da Imersão React da Alura, segunda edição, que teve de adicionar o framework **Next.JS**.
+
+Na semana da imersão desenvolvemos um quiz, onde cada programador criava um tema, perguntas e respostas para o seu quiz.
+
+O meu projeto, que chamei de **Poliquiz**, pode ser [acessado em produção](https://poliquiz.vercel.app/), além do seu [repositório](https://github.com/aaamenezes/poliquiz).
+
+Comentei um pouco mais sobre essa experiência [em um post no meu LinkedIn](https://www.linkedin.com/posts/aaamenezes_programaaexaeto-reactjs-development-activity-6764710290400571392-_NJc).
+
+## React.JS + Redux
+
+**Sexta, 22/01/2020**
+
+Finalizei um projeto em React.JS utilizando Redux para gerenciamento de estados global.
+
+O projeto é bem simples, e algo desse tamanho não justificar utilizar o Reduxm, porém foi utilizado apenas para find didáticos.
+
+[Link do repositório](https://github.com/aaamenezes/redux-simples).
+
 ## Deploy do meu segundo projeto em React.JS: Caosfonia
 
-**Sábado, 19/12/2020**  
+**Sábado, 19/12/2020**
 
 Esse projeto que já mencionei antes aqui no Diário de Bordo, vai gerar automaticamente acordes para cada parte de uma música que você estiver compondo, então é só tu ter/escrever uma letra e sair tocando.
 
@@ -85,7 +123,7 @@ Detalhei melhor como foi esse processo em um [post no meu LinkedIn](https://www.
 
 O [Caosfonia já está disponível online](https://caosfonia.vercel.app/).
 
-## Conheci o useEffect do React.JS   
+## Conheci o useEffect do React.JS
 
 **Sábado, 14/11/2020**  
 
