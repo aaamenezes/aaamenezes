@@ -19,19 +19,21 @@ Um gerador de notas musicais para musicos.
 
 Um quiz com frases de pessoas famosas, onde o objetivo é adivinhar quem as pronunciou. Aqui, além do **React.JS**, utilizei o framework **Nex.JS**.
 
+Esse quiz foi desenvolvido durante a segunda edição da Imersão React da Alura.
+
 - [Repositório](https://github.com/aaamenezes/poliquiz)
 - [Site em produção](https://poliquiz.vercel.app/)
 
 ## O que eu ainda quero descobrir 🔍
 
-No moment, quero aprofundas meus conhecimentos em **React.JS** e **Next.JS**, expandir os horizontes para conhecer a fundo **UX/UI**, e também um pouco de **Node** e **Banco de dados** para ter uma visão completa de projeto.
+No momento, quero aprofundar meus conhecimentos em **React.JS** e **Next.JS**, expandir os horizontes para conhecer a fundo **UX/UI**, e também um pouco de **Node** e **Banco de dados** para ter uma visão completa.
 
 Minhas área de interesse são:
 
-🖥️ Desenvolvimento Web  
-📱 Desenvolvimento Mobile  
-🖌️ Front-end  
-📁 UX/UI Design  
+- 🖥️ Desenvolvimento Web
+- 📱 Desenvolvimento Mobile
+- 🖌️ Front-end
+- 📁 UX/UI Design
 
 <!--
 
@@ -43,37 +45,38 @@ Minhas área de interesse são:
 
 ## Por onde já passei 💼
 
-Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/). É minha primeira experiência como dev.  
+Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/). É minha primeira experiência como dev.
+
 Atuo com **HTML5**, **CSS3** (usando o pré-processador **SASS**), **Liquid** (uma linguagem de template criada pela [Shopify](https://shopify.github.io/liquid/)) e **Javascript/jQuery**.
 
 Decidi seguir na área de desenvolvimento após adquirir experiência em suporte de TI 🛠️ e Marketing Digital 📣. Nesta última, onde iniciei e estruturei o setor da Marketing Digital da [WK JobHub](https://www.wkrh.com.br/), trabalhei com:
 
-💬 Redes sociais  
-📝 [Blog](https://wkrh.com.br/blog/) (postagens feitas de 06/2018 a 07/2020)  
-🔍 SEO  
-🌎 WordPress  
-👨‍💻 CSS  
+- 💬 Redes sociais
+- 📝 [Blog](https://wkrh.com.br/blog/) (postagens feitas de 06/2018 a 07/2020)
+- 🔍 SEO
+- 🌎 WordPress
+- 👨‍💻 CSS
 
 No trabalho voluntário que fiz na ONG Associação 101 Viralatas 🐶🐱 de Viamão/RS ([Facebook](https://www.facebook.com/ONG101viralatas/) / [Instagram](https://www.instagram.com/101viralatas/)), tive uma boa vivência com edição de vídeo usando o Adobe Premiere e tratamento básico de imagens com Photoshop.
 
 ## Estudos e qualificações 👨‍🎓
 
 <!-- 👨‍💻 Graduando em Sistemas para Internet (SENAC) - 1º semestre   -->
-🖥️ [Bootcamp Front-end Jamstack](https://www.alura.com.br/bootcamp/front-end-jamstack/matriculas-abertas) (Alura)
-📣 Brand Design - Gestão de Marca (4ED)  
-📣 Técnico em Publicidade (ETCR)  
-🖌️ Design Gráfico (Alfamídia)  
-📈 Graduado em Administração com ênfase em Marketing (PUCRS)  
-🖥️ Técnico em Redes de Computadores (SENAI)  
+- 🖥️ [Bootcamp Front-end Jamstack](https://www.alura.com.br/bootcamp/front-end-jamstack/matriculas-abertas) (Alura)
+- 📣 Brand Design - Gestão de Marca (4ED)
+- 📣 Técnico em Publicidade (ETCR)
+- 🖌️ Design Gráfico (Alfamídia)
+- 📈 Graduado em Administração com ênfase em Marketing (PUCRS)
+- 🖥️ Técnico em Redes de Computadores (SENAI)
 
 ## Meus principais hobbies 🏖️
 
-⚽ Jogar futebol  
-🍻 Sair com amigos  
-📚 [Ler](https://www.skoob.com.br/usuario/1298580)  
-✍️ [Escrever](https://medium.com/@aaamenezes)  
-🎸 Tocar violão  
-🎮 Jogar vídeo game  (Atualmente, estou jogando Bully do PS2)
+- ⚽ Jogar futebol
+- 🍻 Sair com amigos
+- 📚 [Ler](https://www.skoob.com.br/usuario/1298580)
+- ✍️ [Escrever](https://medium.com/@aaamenezes)
+- 🎸 Tocar violão
+- 🎮 Jogar vídeo game  (Atualmente, estou jogando Bully do PS2)
 
 Quer conversar sobre algum projeto, pedir alguma ajuda, ou apenas falar sobre como é prazeroso usar componentes reutilizáveis?
 
