@@ -1,3 +1,29 @@
+<!-- 
+
+1. Colocar capa no topo
+2. Redes sociais logo abaixo
+3. Most used languages (gráficos de desempenho) https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
+
+Dica de como colocar os gráficos de desempenho
+
+<center>
+<table>
+<tr>
+<td><img width=”470px” align=”left” src=”LINK” /></td>
+<td><img width=”390px” align=”left” src=”LINK” /></td>
+</tr>
+</table>
+</center>
+
+Colocar links abaixo onde falo que trabalho na Vnda
+
+https://web.archive.org/web/20200923150001/https://www.yaaas.com.br/
+https://web.archive.org/web/20210326012233/https://www.matuta.co/
+https://web.archive.org/web/20210408151123/https://www.thecraft.com.br/
+https://web.archive.org/web/20210531165220/https://www.brubins.com.br/
+
+ -->
+
 # Que bom que você está aqui 😬🤙
 
 Quero contar algumas coisas sobre mim, desde que comecei a estudar programação online em 2019.
@@ -6,14 +32,16 @@ Quero contar algumas coisas sobre mim, desde que comecei a estudar programação
 
 Possuo domínio de **HTML** e **CSS** e **Javascript** para iniciar um projeto hoje mesmo 👨‍💻.
 
-No momento estou praticando **React.JS**. Já fiz dois projetos que gostei muito de ter desenvolvido:
+No momento estou participando do [Bootcamp Front-end Jamstack](https://www.alura.com.br/bootcamp/front-end-jamstack/matriculas-abertas) (Alura) praticando **React.JS e Next.JS**.
+
+Alguns dos outros projetos que já fiz com React e que gostei muito de ter desenvolvido:
 
 ### Caosfonia
 
 Um gerador de notas musicais para musicos.
 
-- [Repositório](https://github.com/aaamenezes/caosfonia)
-- [Site em produção](https://caosfonia.vercel.app/)
+- 💻 [Repositório](https://github.com/aaamenezes/caosfonia)
+- ✅ [Site em produção](https://caosfonia.vercel.app/)
 
 ### PoliQuiz
 
@@ -21,12 +49,12 @@ Um quiz com frases de pessoas famosas, onde o objetivo é adivinhar quem as pron
 
 Esse quiz foi desenvolvido durante a segunda edição da Imersão React da Alura.
 
-- [Repositório](https://github.com/aaamenezes/poliquiz)
-- [Site em produção](https://poliquiz.vercel.app/)
+- 💻 [Repositório](https://github.com/aaamenezes/poliquiz)
+- ✅ [Site em produção](https://poliquiz.vercel.app/)
 
 ## O que eu ainda quero descobrir 🔍
 
-No momento, quero aprofundar meus conhecimentos em **React.JS** e **Next.JS**, expandir os horizontes para conhecer a fundo **UX/UI**, e também um pouco de **Node** e **Banco de dados** para ter uma visão completa.
+Quero em algum momento expandir os horizontes e conhecer **UX/UI**, e também um pouco de **Node** e **Banco de dados** para ter uma visão completa.
 
 Minhas área de interesse são:
 
@@ -71,28 +99,39 @@ No trabalho voluntário que fiz na ONG Associação 101 Viralatas 🐶🐱 de Vi
 
 ## Meus principais hobbies 🏖️
 
-- ⚽ Jogar futebol
-- 🍻 Sair com amigos
 - 📚 [Ler](https://www.skoob.com.br/usuario/1298580)
 - ✍️ [Escrever](https://medium.com/@aaamenezes)
 - 🎸 Tocar violão
-- 🎮 Jogar vídeo game  (Atualmente, estou jogando Bully do PS2)
+- 🎮 Jogar vídeo game (Atualmente, estou jogando Final Fantasy X do PS2)
+- ⚽ Jogar futebol e 🍻 Sair com amigos (não em época de pandemia)
 
 Quer conversar sobre algum projeto, pedir alguma ajuda, ou apenas falar sobre como é prazeroso usar componentes reutilizáveis?
 
 Pode me contatar por e-mail `1992menezes@gmail.com` ou qualquer rede abaixo:
 
-[![linkedin](https://img.shields.io/badge/%20-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaamenezes)
-[![instagram](https://img.shields.io/badge/%20-Instagram-E47AAE?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaamenezes/)
-[![twitter](https://img.shields.io/badge/%20-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaamenezes)
-[![medium](https://img.shields.io/badge/%20-Medium-292929?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aaamenezes)
+[![linkedin](https://img.shields.io/badge/%20-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaamenezes) [![instagram](https://img.shields.io/badge/%20-Instagram-E47AAE?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaamenezes/) [![twitter](https://img.shields.io/badge/%20-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaamenezes) [![medium](https://img.shields.io/badge/%20-Medium-292929?style=for-the-badge&logo=medium&logoColor=white)](https://aaamenezes.medium.com/)
 
 Muito prazer!
 
----
+&nbsp;
+
+- - -
+
+&nbsp;
 
 # Diário de bordo de aprendizados
 Daqui para baixo, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
+
+## PortFront
+
+**Terça-feira, 16/02/2021**
+
+Subi o projeto que estou desenvolvendo durante o [Bootcamp Front-end Jamstack](https://www.alura.com.br/bootcamp/front-end-jamstack/matriculas-abertas) (Alura): Porfront.
+
+Esse site é um portfólio de projetos front-end e ao longo do bootcamp vou aprimorando e colocando novas funcionalidades:
+
+- 💻 [Repositório](https://github.com/aaamenezes/Andre_Menezes_JAMStackAlura/)
+- ✅ [Site em produção](https://portfront.vercel.app/)
 
 ## Poliquiz
 
