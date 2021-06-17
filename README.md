@@ -1,40 +1,102 @@
-<!-- 
+<!--
 
-1. Colocar capa no topo
-2. Redes sociais logo abaixo
-3. Most used languages (gráficos de desempenho) https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
+Cards de overview
 
-Dica de como colocar os gráficos de desempenho
+![André Menezes GitHub stats](https://github-readme-stats.vercel.app/api?username=aaamenezes&count_private=true&show_icons=true&theme=dark&hide=issues,contribs)
 
-<center>
-<table>
-<tr>
-<td><img width=”470px” align=”left” src=”LINK” /></td>
-<td><img width=”390px” align=”left” src=”LINK” /></td>
-</tr>
-</table>
-</center>
+Temas: &theme=
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+
+===
+
+Card de repositório
+
+![Portfolio de projetos front-end](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=Andre_Menezes_JAMStackAlura)
+
+===
+
+Card de linguagens
+
+![Linguagens mais utilizadas por André Menezes](https://github-readme-stats.vercel.app/api/top-langs/?username=aaamenezes&layout=compact)
+
+===
+
+Card de estatística semanal (tá com problema)
+
+![Estatísticas semanais de André Menezes](https://github-readme-stats.vercel.app/api/wakatime?username=aaamenezes)
+
+===
+
+Gráficos de desempenho
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
 
 Colocar links abaixo onde falo que trabalho na Vnda
 
-https://web.archive.org/web/20200923150001/https://www.yaaas.com.br/
-https://web.archive.org/web/20210326012233/https://www.matuta.co/
-https://web.archive.org/web/20210408151123/https://www.thecraft.com.br/
-https://web.archive.org/web/20210531165220/https://www.brubins.com.br/
 
- -->
+
+===
+
+Dica (Alinhandos os cartões de repositório)
+Por padrão, você não poderá organizar as imagens lado a lado. Para fazer isso, você pode usar a seguinte abordagem:
+
+```
+<span><img align="center" src="#imagem1" alt="alt1" /></span>
+<span><img align="center" src="#imagem2" alt="alt2" /></span>
+```
+
+-->
+
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaamenezes&count_private=true&show_icons=true&theme=dark&hide=issues,contribs" alt="André Menezes GitHub stats" />
+</span>
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaamenezes&layout=compact" alt="Linguagens mais utilizadas por André Menezes" />
+</span>
+
+&nbsp;
 
 # Que bom que você está aqui 😬🤙
 
 Quero contar algumas coisas sobre mim, desde que comecei a estudar programação online em 2019.
 
-## O que eu já sei 💪
+## Experiências: por onde já passei 💼
 
-Possuo domínio de **HTML** e **CSS** e **Javascript** para iniciar um projeto hoje mesmo 👨‍💻.
+Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/), uma empresa que desenvolve lojas virtuais.
 
-No momento estou participando do [Bootcamp Front-end Jamstack](https://www.alura.com.br/bootcamp/front-end-jamstack/matriculas-abertas) (Alura) praticando **React.JS e Next.JS**.
+É minha primeira experiência como dev.
 
-Alguns dos outros projetos que já fiz com React e que gostei muito de ter desenvolvido:
+Atuo com **HTML5**, **CSS3** (usando o pré-processador **SASS**), **Liquid** (uma linguagem de template criada pela [Shopify](https://shopify.github.io/liquid/)) e **Javascript/jQuery**.
+
+<!--
+Abaixo você confere como ficaram as lojas feitas por mim no dia do lançamento delas (link de cache).
+
+Os links de cache foram salvos na internet no dia em que a loja foi ao ar, e em função disso podem não abrir corretamente:
+
+|                   |                                                                                                          |                                                    |
+| ----------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Yaaas             | [Link de cache](https://web.archive.org/web/20200923150001/https://www.yaaas.com.br/)                    | [Link atual](https://www.yaaas.com.br/)            |
+| Matuta            | [Link de cache](https://web.archive.org/web/20210326012233/https://www.matuta.co/)                       | [Link atual](https://www.matuta.co/)               |
+| The Craft         | [Link de cache](https://web.archive.org/web/20210408151123/https://www.thecraft.com.br/)                 | [Link atual](https://www.thecraft.com.br/)         |
+| Brubins           | [Link de cache](https://web.archive.org/web/20210531165220/https://www.brubins.com.br/)                  | [Link atual](https://www.brubins.com.br/)          |
+| Jacaranda Mobília | [Link de cache Mobilia](https://web.archive.org/web/20210617001332/https://www.jacarandamobilia.com.br/) | [Link atual](https://www.jacarandamobilia.com.br/) |
+-->
+
+## Estudos e qualificações: o que eu já sei 💪
+
+Possuo domínio de **HTML**, **CSS** e **Javascript** para iniciar um projeto hoje mesmo 👨‍💻.
+
+Finalizei no meio de 2021 o [Bootcamp Front-end Jamstack](https://www.alura.com.br/bootcamp/front-end-jamstack/matriculas-abertas) (Alura) praticando muito **React.JS**, **Next.JS**, **Styled Components**, **ESLint** e consumo de API (REST e GraphQL).
+
+No bootcamp também tive contato com **Storybook**, e testes no front-end utilizando **Cypress**, **Jest** e **React Testing Library**.
+
+E o projeto desenvolvido ao longo do curso foi um portfólio de projetos onde os dados são carregados via API do DatoCMS.
+
+- 💻 [Repositório](https://github.com/aaamenezes/Andre_Menezes_JAMStackAlura)
+- ✅ [Site em produção](https://portfront.vercel.app/)
+
+![Portfolio de projetos front-end](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=Andre_Menezes_JAMStackAlura)
+
+## Principais projetos
 
 ### Caosfonia
 
@@ -43,14 +105,43 @@ Um gerador de notas musicais para musicos.
 - 💻 [Repositório](https://github.com/aaamenezes/caosfonia)
 - ✅ [Site em produção](https://caosfonia.vercel.app/)
 
+![Caosfonia: gerador de acordes musicais para artistas!](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=caosfonia)
+
 ### PoliQuiz
 
-Um quiz com frases de pessoas famosas, onde o objetivo é adivinhar quem as pronunciou. Aqui, além do **React.JS**, utilizei o framework **Nex.JS**.
+Um quiz com frases de pessoas famosas, onde o objetivo é adivinhar quem as pronunciou.
+
+Aqui, além do **React.JS**, utilizei o framework **Next.JS**.
 
 Esse quiz foi desenvolvido durante a segunda edição da Imersão React da Alura.
 
 - 💻 [Repositório](https://github.com/aaamenezes/poliquiz)
 - ✅ [Site em produção](https://poliquiz.vercel.app/)
+
+![Caosfonia: gerador de acordes musicais para artistas!](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=poliquiz)
+
+### Análise criativa (filme): Resident Evil - O hóspede maldito
+
+A análise criativa do filme foi feita como atividade avaliativa para uma cadeira da faculdade.
+
+Como a forma de entrega foi definida como livre, resolvi criar um site com o conteúdo da análise.
+
+- 💻 [Repositório](https://github.com/aaamenezes/Resident-Evil-O-Hospede-Maldito)
+- ✅ [Site em produção](https://aaamenezes.github.io/Resident-Evil-O-Hospede-Maldito/)
+
+![Análise criativa (filme): Resident Evil - O hóspede maldito](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=Resident-Evil-O-Hospede-Maldito)
+
+### Gerador de números da Mega-Sena
+
+Essa brincadeira com os números da Mega-Sena gera, inicialmente, seis números aleatórios para serem jogados.
+
+Também é possível alterar a quantidade de números alterados.
+
+A aplicação foi desenvolvida durante um curso da Udemy como forma de praticar ReactJS e o hook useState.
+
+- 💻 [Repositório](https://github.com/aaamenezes/Mega-Sena)
+
+![Gerador de números da Mega-Sena](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=mega-sena)
 
 ## O que eu ainda quero descobrir 🔍
 
@@ -63,31 +154,18 @@ Minhas área de interesse são:
 - 🖌️ Front-end
 - 📁 UX/UI Design
 
-<!--
-
-## Os projetos que mais gostei de ter realizado foram:
-
-...
-
--->
-
-## Por onde já passei 💼
-
-Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/). É minha primeira experiência como dev.
-
-Atuo com **HTML5**, **CSS3** (usando o pré-processador **SASS**), **Liquid** (uma linguagem de template criada pela [Shopify](https://shopify.github.io/liquid/)) e **Javascript/jQuery**.
-
 Decidi seguir na área de desenvolvimento após adquirir experiência em suporte de TI 🛠️ e Marketing Digital 📣. Nesta última, onde iniciei e estruturei o setor da Marketing Digital da [WK JobHub](https://www.wkrh.com.br/), trabalhei com:
 
 - 💬 Redes sociais
 - 📝 [Blog](https://wkrh.com.br/blog/) (postagens feitas de 06/2018 a 07/2020)
+- 🎥 [YouTube](https://www.youtube.com/channel/UClDYdw-mTt9vtVU9H5o7kQw) (vídedos postados entre 06/2020 e 07/2020)
 - 🔍 SEO
 - 🌎 WordPress
 - 👨‍💻 CSS
 
 No trabalho voluntário que fiz na ONG Associação 101 Viralatas 🐶🐱 de Viamão/RS ([Facebook](https://www.facebook.com/ONG101viralatas/) / [Instagram](https://www.instagram.com/101viralatas/)), tive uma boa vivência com edição de vídeo usando o Adobe Premiere e tratamento básico de imagens com Photoshop.
 
-## Estudos e qualificações 👨‍🎓
+## Outros cursos 👨‍🎓
 
 <!-- 👨‍💻 Graduando em Sistemas para Internet (SENAC) - 1º semestre   -->
 - 🖥️ [Bootcamp Front-end Jamstack](https://www.alura.com.br/bootcamp/front-end-jamstack/matriculas-abertas) (Alura)
@@ -101,6 +179,7 @@ No trabalho voluntário que fiz na ONG Associação 101 Viralatas 🐶🐱 de Vi
 
 - 📚 [Ler](https://www.skoob.com.br/usuario/1298580)
 - ✍️ [Escrever](https://medium.com/@aaamenezes)
+- 🎨 Criar
 - 🎸 Tocar violão
 - 🎮 Jogar vídeo game (Atualmente, estou jogando Final Fantasy X do PS2)
 - ⚽ Jogar futebol e 🍻 Sair com amigos (não em época de pandemia)
@@ -121,6 +200,24 @@ Muito prazer!
 
 # Diário de bordo de aprendizados
 Daqui para baixo, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
+
+## Carregar dados de API GraphQL
+
+**Quinta-feira, 03/06/2021**
+
+No portfólio construído durante o bootcamp da Alura, consegui fazê-lo carregar dados de uma plataforma externa ([commit](https://github.com/aaamenezes/Andre_Menezes_JAMStackAlura/commit/2d6a095f95957b2333ac5481ab128cdf7313849f)), que no caso foi o DatoCMS.
+
+Isso dá muitos poderes para uma plataforma, como permitir que pessoas não desenvolvedoras (time do marketing, por exemplo), faça alterações no site.
+
+## Testes no front-end
+
+**Quarta-feita, 26/05/2021**
+
+Pela primeira vez, tive contato com ferramentas de testes no front-end.
+
+Primeiro foi a vez de testar uma jornada do usuário simulando sua atuação com **Cypress** ([commit](https://github.com/aaamenezes/Andre_Menezes_JAMStackAlura/commit/b780caa4324f8f1353013c2cd192e78a9b83cffd)).
+
+Depois, utilizei o **Jest** ([commit](https://github.com/aaamenezes/Andre_Menezes_JAMStackAlura/commit/d98bca244e42af03b3797e3426cf67b206208017)) para testar o retorno de uma função.
 
 ## PortFront
 
