@@ -59,16 +59,20 @@ Por padrão, você não poderá organizar as imagens lado a lado. Para fazer iss
 
 Quero contar algumas coisas sobre mim, desde que comecei a estudar programação online em 2019.
 
-## Experiências: por onde já passei 💼
+## Por onde já passei 💼
 
 Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/), uma empresa que desenvolve lojas virtuais.
 
 É minha primeira experiência como dev.
 
-Atuo com **HTML5**, **CSS3** (usando o pré-processador **SASS**), **Liquid** (uma linguagem de template criada pela [Shopify](https://shopify.github.io/liquid/)) e **Javascript/jQuery**.
+Atuo com:
 
-<!--
-Abaixo você confere como ficaram as lojas feitas por mim no dia do lançamento delas (link de cache).
+- HTML5
+- CSS3, usando o pré-processador SASS
+- Javascript/jQuery
+- Liquid, uma linguagem de template criada pela [Shopify](https://shopify.github.io/liquid/)
+
+Abaixo você confere como ficaram as lojas que já fiz até o momento.
 
 Os links de cache foram salvos na internet no dia em que a loja foi ao ar, e em função disso podem não abrir corretamente:
 
@@ -79,22 +83,31 @@ Os links de cache foram salvos na internet no dia em que a loja foi ao ar, e em 
 | The Craft         | [Link de cache](https://web.archive.org/web/20210408151123/https://www.thecraft.com.br/)                 | [Link atual](https://www.thecraft.com.br/)         |
 | Brubins           | [Link de cache](https://web.archive.org/web/20210531165220/https://www.brubins.com.br/)                  | [Link atual](https://www.brubins.com.br/)          |
 | Jacaranda Mobília | [Link de cache Mobilia](https://web.archive.org/web/20210617001332/https://www.jacarandamobilia.com.br/) | [Link atual](https://www.jacarandamobilia.com.br/) |
--->
 
-## Estudos e qualificações: o que eu já sei 💪
+## Estudos e qualificações 💪
 
 Possuo domínio de **HTML**, **CSS** e **Javascript** para iniciar um projeto hoje mesmo 👨‍💻.
 
-Finalizei no meio de 2021 o [Bootcamp Front-end Jamstack](https://www.alura.com.br/bootcamp/front-end-jamstack/matriculas-abertas) (Alura) praticando muito **React.JS**, **Next.JS**, **Styled Components**, **ESLint** e consumo de API (REST e GraphQL).
+Finalizei no meio de 2021 o [Bootcamp Front-end Jamstack](https://www.alura.com.br/bootcamp/front-end-jamstack/matriculas-abertas) (Alura), onde pratiquei:
 
-No bootcamp também tive contato com **Storybook**, e testes no front-end utilizando **Cypress**, **Jest** e **React Testing Library**.
+- React.JS
+- Next.JS
+- Styled Components
+- ESLint
+- Consumo de API (REST e GraphQL)
 
-E o projeto desenvolvido ao longo do curso foi um portfólio de projetos onde os dados são carregados via API do DatoCMS.
+Também tive contato com Storybook e testes no front-end utilizando:
+
+- Cypress
+- Jest
+- React Testing Library
+
+O trabalho final foi um portfólio de projetos onde os dados são carregados via API do DatoCMS.
 
 - 💻 [Repositório](https://github.com/aaamenezes/Andre_Menezes_JAMStackAlura)
 - ✅ [Site em produção](https://portfront.vercel.app/)
 
-![Portfolio de projetos front-end](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=Andre_Menezes_JAMStackAlura)
+[![Portfolio de projetos front-end](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=Andre_Menezes_JAMStackAlura)](https://portfront.vercel.app/)
 
 ## Principais projetos
 
@@ -105,7 +118,7 @@ Um gerador de notas musicais para musicos.
 - 💻 [Repositório](https://github.com/aaamenezes/caosfonia)
 - ✅ [Site em produção](https://caosfonia.vercel.app/)
 
-![Caosfonia: gerador de acordes musicais para artistas!](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=caosfonia)
+[![Caosfonia: gerador de acordes musicais para artistas!](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=caosfonia)](https://caosfonia.vercel.app/)
 
 ### PoliQuiz
 
@@ -118,34 +131,34 @@ Esse quiz foi desenvolvido durante a segunda edição da Imersão React da Alura
 - 💻 [Repositório](https://github.com/aaamenezes/poliquiz)
 - ✅ [Site em produção](https://poliquiz.vercel.app/)
 
-![Caosfonia: gerador de acordes musicais para artistas!](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=poliquiz)
+[![Caosfonia: gerador de acordes musicais para artistas!](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=poliquiz)](https://poliquiz.vercel.app/)
 
-### Análise criativa (filme): Resident Evil - O hóspede maldito
+### Análise criativa do filme: Resident Evil - O hóspede maldito
 
 A análise criativa do filme foi feita como atividade avaliativa para uma cadeira da faculdade.
 
-Como a forma de entrega foi definida como livre, resolvi criar um site com o conteúdo da análise.
+Como a forma de entrega era livre, resolvi criar um site com o conteúdo da análise.
 
 - 💻 [Repositório](https://github.com/aaamenezes/Resident-Evil-O-Hospede-Maldito)
 - ✅ [Site em produção](https://aaamenezes.github.io/Resident-Evil-O-Hospede-Maldito/)
 
-![Análise criativa (filme): Resident Evil - O hóspede maldito](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=Resident-Evil-O-Hospede-Maldito)
+[![Análise criativa (filme): Resident Evil - O hóspede maldito](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=Resident-Evil-O-Hospede-Maldito)](https://aaamenezes.github.io/Resident-Evil-O-Hospede-Maldito/)
 
 ### Gerador de números da Mega-Sena
 
 Essa brincadeira com os números da Mega-Sena gera, inicialmente, seis números aleatórios para serem jogados.
 
-Também é possível alterar a quantidade de números alterados.
+Também é possível alterar a quantidade de números sorteados.
 
 A aplicação foi desenvolvida durante um curso da Udemy como forma de praticar ReactJS e o hook useState.
 
 - 💻 [Repositório](https://github.com/aaamenezes/Mega-Sena)
 
-![Gerador de números da Mega-Sena](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=mega-sena)
+[![Gerador de números da Mega-Sena](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=mega-sena)](https://github.com/aaamenezes/Mega-Sena)
 
 ## O que eu ainda quero descobrir 🔍
 
-Quero em algum momento expandir os horizontes e conhecer **UX/UI**, e também um pouco de **Node** e **Banco de dados** para ter uma visão completa.
+Quero expandir os horizontes e conhecer **UX/UI**, e também um pouco de **Node** e **Banco de dados** para ter uma visão completa.
 
 Minhas área de interesse são:
 
@@ -158,7 +171,7 @@ Decidi seguir na área de desenvolvimento após adquirir experiência em suporte
 
 - 💬 Redes sociais
 - 📝 [Blog](https://wkrh.com.br/blog/) (postagens feitas de 06/2018 a 07/2020)
-- 🎥 [YouTube](https://www.youtube.com/channel/UClDYdw-mTt9vtVU9H5o7kQw) (vídedos postados entre 06/2020 e 07/2020)
+- 🎥 [YouTube](https://www.youtube.com/channel/UClDYdw-mTt9vtVU9H5o7kQw) (vídeos postados entre 06/2020 e 07/2020)
 - 🔍 SEO
 - 🌎 WordPress
 - 👨‍💻 CSS
@@ -182,7 +195,8 @@ No trabalho voluntário que fiz na ONG Associação 101 Viralatas 🐶🐱 de Vi
 - 🎨 Criar
 - 🎸 Tocar violão
 - 🎮 Jogar vídeo game (Atualmente, estou jogando Final Fantasy X do PS2)
-- ⚽ Jogar futebol e 🍻 Sair com amigos (não em época de pandemia)
+- ⚽ Jogar futebol
+- 🍻 Sair com amigos (não em época de pandemia)
 
 Quer conversar sobre algum projeto, pedir alguma ajuda, ou apenas falar sobre como é prazeroso usar componentes reutilizáveis?
 
