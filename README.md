@@ -76,13 +76,13 @@ Abaixo você confere como ficaram as lojas que já fiz até o momento.
 
 Os links de cache foram salvos na internet no dia em que a loja foi ao ar, e em função disso podem não abrir corretamente:
 
-|                   |                                                                                                          |                                                    |
-| ----------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| Yaaas             | [Link de cache](https://web.archive.org/web/20200923150001/https://www.yaaas.com.br/)                    | [Link atual](https://www.yaaas.com.br/)            |
-| Matuta            | [Link de cache](https://web.archive.org/web/20210326012233/https://www.matuta.co/)                       | [Link atual](https://www.matuta.co/)               |
-| The Craft         | [Link de cache](https://web.archive.org/web/20210408151123/https://www.thecraft.com.br/)                 | [Link atual](https://www.thecraft.com.br/)         |
-| Brubins           | [Link de cache](https://web.archive.org/web/20210531165220/https://www.brubins.com.br/)                  | [Link atual](https://www.brubins.com.br/)          |
-| Jacaranda Mobília | [Link de cache Mobilia](https://web.archive.org/web/20210617001332/https://www.jacarandamobilia.com.br/) | [Link atual](https://www.jacarandamobilia.com.br/) |
+| Nome da loja      | Link de cache                                                                           | Link atual                                   |
+| ----------------- | --------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Yaaas             | [Link](https://web.archive.org/web/20200923150001/https://www.yaaas.com.br/)            | [Link](https://www.yaaas.com.br/)            |
+| Matuta            | [Link](https://web.archive.org/web/20210326012233/https://www.matuta.co/)               | [Link](https://www.matuta.co/)               |
+| The Craft         | [Link](https://web.archive.org/web/20210408151123/https://www.thecraft.com.br/)         | [Link](https://www.thecraft.com.br/)         |
+| Brubins           | [Link](https://web.archive.org/web/20210531165220/https://www.brubins.com.br/)          | [Link](https://www.brubins.com.br/)          |
+| Jacaranda Mobília | [Link](https://web.archive.org/web/20210617001332/https://www.jacarandamobilia.com.br/) | [Link](https://www.jacarandamobilia.com.br/) |
 
 ## Estudos e qualificações 💪
 
