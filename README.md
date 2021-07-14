@@ -215,6 +215,14 @@ Muito prazer!
 # Diário de bordo de aprendizados
 Daqui para baixo, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
 
+## Wireframe do meu futuro blog
+
+**Sexta-feira, 09/07/2021**
+
+Nos últimos dias andei recolhendo referências de sites que têm um visual agradável e catalogando eles [nessa página do Notion](https://www.notion.so/Design-3744c4acce384a568661cf9f760c0214).
+
+Agora estou no processo de colocar as partes mais interessantes no [wireframe](https://www.figma.com/proto/x05BsMnuWHNFhkjdYL9twG/deMenezes?node-id=0%3A1&scaling=min-zoom&page-id=0%3A1).
+
 ## Carregar dados de API GraphQL
 
 **Quinta-feira, 03/06/2021**
