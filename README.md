@@ -109,7 +109,7 @@ O trabalho final foi um portfólio de projetos onde os dados são carregados via
 
 [![Portfolio de projetos front-end](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=Andre_Menezes_JAMStackAlura)](https://portfront.vercel.app/)
 
-## Principais projetos
+## Os 3 projetos que mais gostei de desenvolver
 
 ### Caosfonia
 
@@ -124,37 +124,28 @@ Um gerador de notas musicais para musicos.
 
 Um quiz com frases de pessoas famosas, onde o objetivo é adivinhar quem as pronunciou.
 
-Aqui, além do **React.JS**, utilizei o framework **Next.JS**.
-
-Esse quiz foi desenvolvido durante a segunda edição da Imersão React da Alura.
-
 - 💻 [Repositório](https://github.com/aaamenezes/poliquiz)
 - ✅ [Site em produção](https://poliquiz.vercel.app/)
 
 [![Caosfonia: gerador de acordes musicais para artistas!](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=poliquiz)](https://poliquiz.vercel.app/)
 
-### Análise criativa do filme: Resident Evil - O hóspede maldito
+### Alurakut (réplica do Orkut)
 
-A análise criativa do filme foi feita como atividade avaliativa para uma cadeira da faculdade.
+O projeto Alurakut feito durante uma [Imersão React da Alura](https://www.alura.com.br/imersao-react) é uma réplica do Orkut.
 
-Como a forma de entrega era livre, resolvi criar um site com o conteúdo da análise.
+Algumas as principais tecnologias usadas foram:
 
-- 💻 [Repositório](https://github.com/aaamenezes/Resident-Evil-O-Hospede-Maldito)
-- ✅ [Site em produção](https://aaamenezes.github.io/Resident-Evil-O-Hospede-Maldito/)
+- React JS
+- Hooks React
+- Styled Componentes
+- Next JS
 
-[![Análise criativa (filme): Resident Evil - O hóspede maldito](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=Resident-Evil-O-Hospede-Maldito)](https://aaamenezes.github.io/Resident-Evil-O-Hospede-Maldito/)
+É possível criar comunidades, adicionar pessoas pessoas como amigos (salvos no DatoCMS e carregador via API GraphQL), além de um sistema de login feito com Nookies e JWT.
 
-### Gerador de números da Mega-Sena
+- 💻 [Repositório](https://github.com/aaamenezes/alurakut)
+- ✅ [Site em produção](https://alurakut-aaamenezes.vercel.app/login)
 
-Essa brincadeira com os números da Mega-Sena gera, inicialmente, seis números aleatórios para serem jogados.
-
-Também é possível alterar a quantidade de números sorteados.
-
-A aplicação foi desenvolvida durante um curso da Udemy como forma de praticar ReactJS e o hook useState.
-
-- 💻 [Repositório](https://github.com/aaamenezes/Mega-Sena)
-
-[![Gerador de números da Mega-Sena](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=mega-sena)](https://github.com/aaamenezes/Mega-Sena)
+[![Alurakut: uma réplica do Orkut](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=alurakut)](https://alurakut-aaamenezes.vercel.app/login)
 
 ## O que eu ainda quero descobrir 🔍
 
@@ -214,6 +205,24 @@ Muito prazer!
 
 # Diário de bordo de aprendizados
 Daqui para baixo, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
+
+## Alurakut (réplica do Orkut)
+
+**Quarta-feira, 21/07/2021**
+
+Hoje terminei o projeto Alurakut feito durante uma [Imersão React da Alura](https://www.alura.com.br/imersao-react), que é uma réplica do Orkut.
+
+- [Repositório](https://github.com/aaamenezes/alurakut)
+- [Site em produção rodando na Vercel](https://alurakut-aaamenezes.vercel.app/login)
+
+Algumas as principais tecnologias usadas foram:
+
+- React JS
+- Hooks React
+- Styled Componentes
+- Next JS
+
+É possível criar comunidades, adicionar pessoas pessoas como amigos (salvos no DatoCMS e carregador via API GraphQL), além de um sistema de login feito com Nookies e JWT.
 
 ## Wireframe do meu futuro blog
 
