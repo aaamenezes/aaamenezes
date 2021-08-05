@@ -206,6 +206,16 @@ Muito prazer!
 # Diário de bordo de aprendizados
 Daqui para baixo, você poderá acompanhar um Diário de Bordo de coisas que aprendo ao longos dos dias:
 
+## Minha primeira resposta do StackOverflow
+
+**Quinta-feira, 04/08/2021**
+
+Estava há dois dias com um problema de Styled Components no projeto do meu blog, sem saber como resolver. Não encontrava a forma correta de extender os estilos de um componente e ao mesmo tempo mudar a tag HTML renderizada através do atributo `as`.
+
+Foi quando encontrei [essa pergunta no StackOverflow](https://stackoverflow.com/questions/61614740/how-to-extend-imported-component-styled-components/). Ela não era exatamente o mesmo problema que eu tava passando, mas a forma como foi feita, e as respostas, me ajudaram.
+
+Resolvi então [postei a minha solução](https://stackoverflow.com/questions/61614740/how-to-extend-imported-component-styled-components/68660267#68660267) para o problema, já que a pergunta não tinha sido completamente respondida.
+
 ## Alurakut (réplica do Orkut)
 
 **Quarta-feira, 21/07/2021**
