@@ -197,6 +197,8 @@ Pode me contatar por e-mail `1992menezes@gmail.com` ou qualquer rede abaixo:
 
 Muito prazer!
 
+<!-- 
+
 &nbsp;
 
 - - -
@@ -426,3 +428,5 @@ Aprendi uma introdução sobre os módulos do Javascript, como separar, exportar
 Em vez de esperar um evento na DOM para executar uma função (evento esse que nem sabia qual era), deixei o setInterval() executar ela a cada 1 segundo.  
 
 Como era um script pequeno e para aprendizado, não pesou a execução.
+
+-->
