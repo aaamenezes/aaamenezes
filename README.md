@@ -57,22 +57,18 @@ Por padrão, você não poderá organizar as imagens lado a lado. Para fazer iss
 
 # Que bom que você está aqui 😬🤙
 
-Quero contar algumas coisas sobre mim, desde que comecei a estudar programação online em 2019.
+Quero contar algumas coisas sobre mim, desde que comecei a estudar programação em 2019.
 
-## Por onde já passei 💼
+## O que eu já sei 💪
 
-Atualmente sou Desenvolvedor Front-end na [Vnda - Tecnologia em Ecommerce](https://www.vnda.com.br/), uma empresa que desenvolve lojas virtuais.
+Trabalho como desenvolvedor web front-end há 3 anos e meio, e estou na segunda empresa. Essa jornada me proporcionou uma boa base de conhecimento em:
 
-É minha primeira experiência como dev.
-
-Atuo com:
-
-- HTML5
-- CSS3, usando o pré-processador SASS
+- HTML
+- CSS puro e pré-processador SASS
 - Javascript/jQuery
-- Liquid, uma linguagem de template criada pela [Shopify](https://shopify.github.io/liquid/)
+- Liquid ([linguagem de template da Shopify](https://shopify.github.io/liquid/) para construir ecommerce)
 
-Abaixo você confere como ficaram as lojas que já fiz até o momento.
+Na minha primeira experiência, trabalhei com o lançamento de novos ecommerces. Abaixo você confere como ficaram as lojas que fiz.
 
 Os links de cache foram salvos na internet no dia em que a loja foi ao ar, e em função disso podem não abrir corretamente:
 
@@ -84,11 +80,9 @@ Os links de cache foram salvos na internet no dia em que a loja foi ao ar, e em 
 | Brubins           | [Link](https://web.archive.org/web/20210531165220/https://www.brubins.com.br/)          | [Link](https://www.brubins.com.br/)          |
 | Jacaranda Mobília | [Link](https://web.archive.org/web/20210617001332/https://www.jacarandamobilia.com.br/) | [Link](https://www.jacarandamobilia.com.br/) |
 
-## Estudos e qualificações 💪
+## Estudos e qualificações 📕
 
-Possuo domínio de **HTML**, **CSS** e **Javascript** para iniciar um projeto hoje mesmo 👨‍💻.
-
-Finalizei no meio de 2021 o [Bootcamp Front-end Jamstack](https://www.alura.com.br/bootcamp/front-end-jamstack/matriculas-abertas) (Alura), onde pratiquei:
+Participei do [Bootcamp Front-end Jamstack](https://www.alura.com.br/bootcamp/front-end-jamstack/matriculas-abertas) (Alura), onde aprendi diversas tecnologias que utilizei para desenvolver o meu [blog pessoal](https://demenezes.dev/):
 
 - React.JS
 - Next.JS
@@ -96,19 +90,62 @@ Finalizei no meio de 2021 o [Bootcamp Front-end Jamstack](https://www.alura.com.
 - ESLint
 - Consumo de API (REST e GraphQL)
 
-Também tive contato com Storybook e testes no front-end utilizando:
+Nesse [blog](https://demenezes.dev/), publico conteúdos sobre front-end e carreira.
 
+Além dessas tecnologias, durante o bootcamp também tive contato com:
+
+- Storybook
 - Cypress
 - Jest
-- React Testing Library
 
-O trabalho final foi um portfólio de projetos onde os dados são carregados via API do DatoCMS.
+## O que eu ainda quero descobrir 🔍
 
-- 💻 [Repositório](https://github.com/aaamenezes/Andre_Menezes_JAMStackAlura)
-- ✅ [Site em produção](https://portfront.vercel.app/)
+Futuramente quero estudar outras tecnologias como:
 
-[![Portfolio de projetos front-end](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=Andre_Menezes_JAMStackAlura)](https://portfront.vercel.app/)
+- Typescript
+- Node
+- Tailwind
+- UX/UI
+- Python
+- Banco de dados
 
+## Versionamento :octocat:
+
+Já trabalhei com as seguintes plataformas para versionamento de código:
+
+- Github
+- Gitlab
+- Bitbucket
+
+## Inglês 🌐
+
+Possuo inglês nível básico, o suficiente para leitura e comunicação escrita.
+
+## Área de interesse
+
+Essas são as áreas que mais tenho interesse em me desenvolver:
+
+🖥️ Desenvolvimento web front-end
+📱 Desenvolvimento Mobile
+📁 UX/UI Design
+📣 DevRel
+
+## Eventos tech 📆
+
+Gosto muito de participar de eventos da comunidade tech. Já estive em alguns:
+
+- The Developer's Conference - Porto Alegre (2019)
+- Codecon - online (2022) (https://demenezes.dev/posts/codecon-2022/)
+- Front in Floripa - Florianópolis (2022) (https://demenezes.dev/posts/eventos-tech-front-in-floripa-2022/)
+- CSS Conference - São Paulo (2023)
+
+Os próximos que vou participar:
+
+- Codecon - online (2023)
+- Front in Sampa - São Paulo (2023)
+- Codecon Summit - Joinville (2023)
+
+<!-- 
 ## Os 3 projetos que mais gostei de desenvolver
 
 ### Caosfonia
@@ -146,52 +183,33 @@ Algumas as principais tecnologias usadas foram:
 - ✅ [Site em produção](https://alurakut-aaamenezes.vercel.app/login)
 
 [![Alurakut: uma réplica do Orkut](https://github-readme-stats.vercel.app/api/pin/?username=aaamenezes&repo=alurakut)](https://alurakut-aaamenezes.vercel.app/login)
+-->
 
-## O que eu ainda quero descobrir 🔍
-
-Quero expandir os horizontes e conhecer **UX/UI**, e também um pouco de **Node** e **Banco de dados** para ter uma visão completa.
-
-Minhas área de interesse são:
-
-- 🖥️ Desenvolvimento Web
-- 📱 Desenvolvimento Mobile
-- 🖌️ Front-end
-- 📁 UX/UI Design
+## Outras experiências
 
 Decidi seguir na área de desenvolvimento após adquirir experiência em suporte de TI 🛠️ e Marketing Digital 📣. Nesta última, onde iniciei e estruturei o setor da Marketing Digital da [WK JobHub](https://www.wkrh.com.br/), trabalhei com:
 
-- 💬 Redes sociais
-- 📝 [Blog](https://wkrh.com.br/blog/) (postagens feitas de 06/2018 a 07/2020)
-- 🎥 [YouTube](https://www.youtube.com/channel/UClDYdw-mTt9vtVU9H5o7kQw) (vídeos postados entre 06/2020 e 07/2020)
-- 🔍 SEO
-- 🌎 WordPress
-- 👨‍💻 CSS
+💬 Redes sociais
+📝 [Blog](https://wkrh.com.br/blog/) (postagens feitas de 06/2018 a 07/2020)
+🎥 [YouTube](https://www.youtube.com/channel/UClDYdw-mTt9vtVU9H5o7kQw) (vídeos postados entre 06/2020 e 07/2020)
+🔍 SEO
+🌎 WordPress
+👨‍💻 CSS
+
+Sou graduado em Administração com ênfase em Marketing (PUCRS), técnico em Publicidade (ETCR) e técnico em Redes de Computadores (SENAI).
 
 No trabalho voluntário que fiz na ONG Associação 101 Viralatas 🐶🐱 de Viamão/RS ([Facebook](https://www.facebook.com/ONG101viralatas/) / [Instagram](https://www.instagram.com/101viralatas/)), tive uma boa vivência com edição de vídeo usando o Adobe Premiere e tratamento básico de imagens com Photoshop.
 
-## Outros cursos 👨‍🎓
-
-<!-- 👨‍💻 Graduando em Sistemas para Internet (SENAC) - 1º semestre   -->
-- 🖥️ [Bootcamp Front-end Jamstack](https://www.alura.com.br/bootcamp/front-end-jamstack/matriculas-abertas) (Alura)
-- 📣 Brand Design - Gestão de Marca (4ED)
-- 📣 Técnico em Publicidade (ETCR)
-- 🖌️ Design Gráfico (Alfamídia)
-- 📈 Graduado em Administração com ênfase em Marketing (PUCRS)
-- 🖥️ Técnico em Redes de Computadores (SENAI)
-
 ## Meus principais hobbies 🏖️
 
-- 📚 [Ler](https://www.skoob.com.br/usuario/1298580)
-- ✍️ [Escrever](https://medium.com/@aaamenezes)
-- 🎨 Criar
-- 🎸 Tocar violão
-- 🎮 Jogar vídeo game (Atualmente, estou jogando Final Fantasy X do PS2)
-- ⚽ Jogar futebol
-- 🍻 Sair com amigos (não em época de pandemia)
+🎮 Jogar vídeo game
+🏃🏽‍♂️ Praticar corrida
+📕 Ler e escrever
+🎸 Tocar violão
+⚽ Jogar futebol
+🍻 Sair com amigos
 
-Quer conversar sobre algum projeto, pedir alguma ajuda, ou apenas falar sobre como é prazeroso usar componentes reutilizáveis?
-
-Pode me contatar por e-mail `1992menezes@gmail.com` ou qualquer rede abaixo:
+Quer falar sobre algum projeto, pedir alguma ajuda, ou apenas conversar sobre como é prazeroso usar componentes reutilizáveis? É só mandar uma mensagem 😉
 
 [![linkedin](https://img.shields.io/badge/%20-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaamenezes) [![instagram](https://img.shields.io/badge/%20-Instagram-E47AAE?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaamenezes/) [![twitter](https://img.shields.io/badge/%20-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaamenezes) [![medium](https://img.shields.io/badge/%20-Medium-292929?style=for-the-badge&logo=medium&logoColor=white)](https://aaamenezes.medium.com/)
 
